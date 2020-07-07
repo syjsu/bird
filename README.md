@@ -1,6 +1,6 @@
 # Genetic Algorithm Flappy Bird Using TensorFlowJS
 Computer learns how to play flappy bird with the help of genetic algorithm.
-Try it [here](https://tanish0019.github.io/Genetic-Algorithm-Flappy-Bird-Using-TensorFlowJS/)
+[在线运行Demo](https://syjsu.github.io/bird/)
 
 ## How it works
 1. A population of birds is created. Each bird has a neural network attached to it. The weights of all the neural networks are initialised randomly
